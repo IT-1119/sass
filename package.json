@@ -1,0 +1,17 @@
+{
+  "name": "sass_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "sass": "sass --watch scss/:dist/css/"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node": "^24.2.0",
+    "node-sass": "^1.89.2"
+  }
+}
